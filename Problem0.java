@@ -7,5 +7,6 @@ public class Problem0
     
     int secondVariable = 7.7;
     System.out.println(secondVariable);
+
   }
 }
